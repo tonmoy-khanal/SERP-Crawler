@@ -48,7 +48,7 @@ If no YouTube links are found for the given query, the output will be:
 {
     "youtube_links": []
 }
-Feel free to modify the code to suit your specific requirements.
+
 
 Note
 Web scraping should be done responsibly and in accordance with the terms and conditions of the websites you are scraping. Be mindful of the volume of requests you send and the impact it may have on the target website. Consider adding delays between requests and ensure that you are not violating any legal or ethical boundaries.
